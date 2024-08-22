@@ -25,7 +25,7 @@ Available at;
 |  | Notebook |
 | --- | --- |
 | Collab | https://colab.research.google.com/drive/1dXLf6uabQtm_wddGR9DL5SLIp2VIP6AD?usp=sharing |
-| Kaggle | https://www.kaggle.com/code/jasonldoyle/house-price-prediction |
+| Kaggle | https://www.kaggle.com/code/jasonldoyle/customer-clustering |
 | Github | https://github.com/jasonldoyle/Customer-Clustering/blob/8f5cca5c6ac8c245bad4ec185a8383a6028aea1d/Customer_Clustering_Model.ipynb |
 | Tableau | https://public.tableau.com/views/P3_Customer_Clustering/SegmentCharacteristics?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link |
 
