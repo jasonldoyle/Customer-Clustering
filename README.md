@@ -1,8 +1,10 @@
 ### Description
 
-There are two goals with this project;
+For this project, I analyzed a customer dataset, performed data cleaning, and applied a K-means clustering model to segment customers into distinct groups. I then created a dynamic dashboard for stakeholders, enabling them to explore key insights such as customer characteristics, spending behaviors, and responses to marketing campaigns.
 
-1. Build a model to segment customers into clusters using the provided features.
+There were two main goals with this project;
+
+1. Build a model to segment customers into clusters using the provided data.
 2. Develop an interactive dashboard for stakeholders to explore and visualise customer clusters.
 
 ### Dataset
